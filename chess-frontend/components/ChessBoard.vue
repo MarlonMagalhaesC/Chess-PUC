@@ -4,13 +4,11 @@
     <p v-if="message" class="message">{{ message }}</p>
 
     <div class="chess-wrapper">
-      <!-- Labels de cima -->
       <div class="top-left-empty"></div>
       <div class="column-label" v-for="letter in columnLetters" :key="letter">
         {{ letter }}
       </div>
 
-      <!-- Label lateral esquerda + tabuleiro -->
       <template v-for="(row, rowIndex) in 8" :key="rowIndex">
         <div class="row-label">
           {{ 8 - rowIndex }}
@@ -174,7 +172,6 @@ function pieceAt(row, col) {
 </script>
 
 <style scoped>
-/* Wrapper do Tabuleiro */
 .chess-wrapper {
   display: grid;
   grid-template-columns: 30px repeat(8, 70px);
@@ -184,7 +181,6 @@ function pieceAt(row, col) {
   margin: 30px auto;
 }
 
-/* Labels */
 .top-left-empty {
   width: 30px;
   height: 30px;
@@ -210,7 +206,6 @@ function pieceAt(row, col) {
   color: #222;
 }
 
-/* Células do Tabuleiro */
 .cell {
   width: 70px;
   height: 70px;
@@ -225,7 +220,6 @@ function pieceAt(row, col) {
   transform: scale(1.05);
 }
 
-/* Cores das Casas */
 .white {
   background-color: #f0d9b5;
 }
@@ -234,7 +228,6 @@ function pieceAt(row, col) {
   background-color: #b58863;
 }
 
-/* Seleção e Movimentos Possíveis */
 .selected {
   background-color: #ffe600 !important;
 }
@@ -244,7 +237,6 @@ function pieceAt(row, col) {
   outline-offset: -3px;
 }
 
-/* Estilo das Peças */
 .white-piece {
   color: white;
   font-weight: 900;
@@ -258,7 +250,6 @@ function pieceAt(row, col) {
   font-size: 32px;
 }
 
-/* Mensagem de Status */
 .message {
   margin-top: 12px;
   font-weight: bold;
@@ -266,7 +257,6 @@ function pieceAt(row, col) {
   text-align: center;
 }
 
-/* Peças Capturadas */
 .captured {
   margin-top: 30px;
   text-align: center;
