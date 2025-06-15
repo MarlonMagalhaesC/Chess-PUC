@@ -38,3 +38,4 @@ C:\Users\Marlon\Desktop\TrabalhoXadrez\ChessAPI\bin\Debug\net9.0\chess-frontend\
 C:\Users\Marlon\Desktop\TrabalhoXadrez\ChessAPI\bin\Debug\net9.0\chess-frontend\package.json
 C:\Users\Marlon\Desktop\TrabalhoXadrez\ChessAPI\bin\Debug\net9.0\chess-frontend\server\tsconfig.json
 C:\Users\Marlon\Desktop\TrabalhoXadrez\ChessAPI\bin\Debug\net9.0\chess-frontend\tsconfig.json
+C:\Users\Marlon\Desktop\TrabalhoXadrez\ChessAPI\obj\Debug\net9.0\ChessAPI.sourcelink.json

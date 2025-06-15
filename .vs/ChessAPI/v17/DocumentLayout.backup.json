@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Controllers\\ChessController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ChessController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\PartidaDeXadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\PartidaDeXadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\TabuleiroException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TabuleiroException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\TabuleiroException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TabuleiroException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\PartidaDeXadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\PartidaDeXadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Controllers\\ChessController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ChessController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\PosicaoXadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\PosicaoXadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +45,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Dama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Dama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Cavalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Posicao.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Posicao.cs",
               "RelativeDocumentMoniker": "Models\\Posicao.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Cor.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Cor.cs",
               "RelativeDocumentMoniker": "Models\\Cor.cs",
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Dama.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Dama.cs",
               "RelativeDocumentMoniker": "Models\\Dama.cs",
@@ -113,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Peao.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Peao.cs",
               "RelativeDocumentMoniker": "Models\\Peao.cs",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Peca.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Peca.cs",
               "RelativeDocumentMoniker": "Models\\Peca.cs",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "PosicaoXadrez.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\PosicaoXadrez.cs",
               "RelativeDocumentMoniker": "Models\\PosicaoXadrez.cs",
@@ -152,33 +152,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Rei.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Rei.cs",
               "RelativeDocumentMoniker": "Models\\Rei.cs",
               "ToolTip": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Rei.cs",
               "RelativeToolTip": "Models\\Rei.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T12:36:30.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "Models\\Tabuleiro.cs",
               "ToolTip": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Tabuleiro.cs",
               "RelativeToolTip": "Models\\Tabuleiro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T12:36:33.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "TabuleiroException.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\TabuleiroException.cs",
               "RelativeDocumentMoniker": "Models\\TabuleiroException.cs",
@@ -191,52 +191,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Torre.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Torre.cs",
               "RelativeDocumentMoniker": "Models\\Torre.cs",
               "ToolTip": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\Torre.cs",
               "RelativeToolTip": "Models\\Torre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T12:36:48.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ChessController.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Controllers\\ChessController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChessController.cs",
               "ToolTip": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Controllers\\ChessController.cs",
               "RelativeToolTip": "Controllers\\ChessController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAwF0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T12:29:40.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PartidaDeXadrez.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\PartidaDeXadrez.cs",
               "RelativeDocumentMoniker": "Models\\PartidaDeXadrez.cs",
               "ToolTip": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Models\\PartidaDeXadrez.cs",
               "RelativeToolTip": "Models\\PartidaDeXadrez.cs",
-              "ViewState": "AgIAAP0AAAAAAAAAAADwvwIBAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAIBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T12:36:03.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Marlon\\Desktop\\TrabalhoXadrez\\ChessAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T12:27:57.075Z",
               "EditorCaption": ""
@@ -251,8 +251,7 @@
               "RelativeToolTip": "Models\\Cavalo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T12:35:42.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T12:35:42.512Z"
             },
             {
               "$type": "Document",
@@ -264,8 +263,7 @@
               "RelativeToolTip": "Models\\Bispo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T12:34:20.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T12:34:20.534Z"
             }
           ]
         }
