@@ -12,7 +12,7 @@ namespace ChessAPI.Models
         }
 
         public override string ToString() {
-            return "P";
+            return "♙";
         }
 
         private bool existeInimigo(Posicao pos) {

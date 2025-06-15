@@ -11,7 +11,7 @@ namespace ChessAPI.Models
         }
 
         public override string ToString() {
-            return "R";
+            return "♔";
         }
 
         private bool podeMover(Posicao pos) {

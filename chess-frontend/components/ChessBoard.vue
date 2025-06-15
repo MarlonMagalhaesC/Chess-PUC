@@ -26,6 +26,7 @@
           >
             <div
               v-if="pieceAt(rowIndex, col - 1)"
+              class="peca"
               :class="pieceAt(rowIndex, col - 1).cor === 'Branca' ? 'white-piece' : 'black-piece'"
             >
               {{ pieceAt(rowIndex, col - 1).peca }}
@@ -283,5 +284,10 @@ function pieceAt(row, col) {
   background-color: #f9f9f9;
   border-radius: 6px;
   box-shadow: 1px 1px 4px rgba(0,0,0,0.25);
+}
+
+.peca {
+  font-size: 50px;
+
 }
 </style>

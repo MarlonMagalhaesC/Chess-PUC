@@ -8,7 +8,7 @@ namespace ChessAPI.Models
         }
 
         public override string ToString() {
-            return "T";
+            return "♖";
         }
 
         private bool podeMover(Posicao pos) {

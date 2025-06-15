@@ -9,7 +9,7 @@ namespace ChessAPI.Models
         }
 
         public override string ToString() {
-            return "D";
+            return "♕";
         }
 
         private bool podeMover(Posicao pos) {
