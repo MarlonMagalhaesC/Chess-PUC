@@ -59,7 +59,7 @@ namespace ChessAPI.Controllers
                 var movimentos = peca.movimentosPossiveis();
                 bool[,] matriz = movimentos;
 
-                // Converte o bool[,] em lista de listas (JSON serializável)
+
                 var grid = new List<List<bool>>();
                 for (int i = 0; i < partida.tab.linhas; i++)
                 {
