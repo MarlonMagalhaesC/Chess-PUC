@@ -113,6 +113,16 @@ namespace ChessAPI.Controllers
                 return BadRequest(new { error = ex.Message });
             }
         }
+
+
+
+        [HttpPost("reset")]
+        public IActionResult ResetGame()
+        {
+            partida = new PartidaDeXadrez();
+            return Ok(new { message = "Jogo reiniciado com sucesso" });
+        }
+
     }
 
     public class MoveRequest
