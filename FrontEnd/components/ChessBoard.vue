@@ -51,6 +51,9 @@
         </span>
       </div>
     </div>
+
+
+    <button @click="resetGame" class="reset-button">Reiniciar Jogo</button>
   </div>
 </template>
 
@@ -126,6 +129,21 @@ function selectCell(cell) {
     makeMove(selected.value, cell)
     selected.value = null
     possibleMovesGrid.value = []
+  }
+}
+
+async function resetGame() {
+  const res = await fetch('http://localhost:5299/chess/reset', {
+    method: 'POST'
+  })
+
+  if (res.ok) {
+    await loadBoard()
+    await loadStatus()
+    await loadCaptured()
+    message.value = '♻️ Jogo reiniciado com sucesso!'
+  } else {
+    message.value = '❌ Erro ao reiniciar o jogo.'
   }
 }
 
@@ -288,5 +306,20 @@ function pieceAt(row, col) {
 
 .peca {
   font-size: 50px;
+}
+
+.reset-button {
+  margin-top: 30px;
+  padding: 12px 16px;
+  font-weight: bold;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.reset-button:hover {
+  background-color: #555;
 }
 </style>
