@@ -71,6 +71,7 @@ const capturedBlack = ref([])
 const columnLetters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
 
 onMounted(() => {
+  fetch('https://chess-puc-2.onrender.com/Chess/reset', { method: 'POST' }) 
   loadBoard()
   loadStatus()
   loadCaptured()
