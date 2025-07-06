@@ -1,0 +1,58 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Backup & temp files
+*.bak
+*.tmp
+*.log
+
+# Sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node.js (para o frontend, se for o caso)
+node_modules/
+dist/
+
+# Arquivos ZIP
+*.zip
+
+# Ignorar arquivos e pastas do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Ignorar pastas de build
+bin/
+obj/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Ignorar dependências (se houver frontend)
+node_modules/
+dist/
+
+# Ignorar arquivos compactados
+*.zip
+
+# Permitir arquivos da pasta BackEnd
+!BackEnd/
+!BackEnd/**/*.cs
+!BackEnd/**/*.csproj
+!BackEnd/**/*.json
+!BackEnd/**/*.http
+!BackEnd/Controllers/
+!BackEnd/Models/
+
