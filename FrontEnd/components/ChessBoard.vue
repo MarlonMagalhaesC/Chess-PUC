@@ -77,12 +77,12 @@ onMounted(() => {
 })
 
 async function loadBoard() {
-  const res = await fetch('http://localhost:5299/chess/board')
+  const res = await fetch('https://chess-puc-2.onrender.com/Chess/board')
   board.value = await res.json()
 }
 
 async function loadStatus() {
-  const res = await fetch('http://localhost:5299/chess/status')
+  const res = await fetch('https://chess-puc-2.onrender.com/Chess/status')
   const data = await res.json()
   turno.value = data.turno
   if (data.terminada) {
@@ -95,14 +95,14 @@ async function loadStatus() {
 }
 
 async function loadCaptured() {
-  const res = await fetch('http://localhost:5299/chess/captured')
+  const res = await fetch('https://chess-puc-2.onrender.com/Chess/captured')
   const data = await res.json()
   capturedWhite.value = data.brancas
   capturedBlack.value = data.pretas
 }
 
 async function loadPossibleMovesGrid(cell) {
-  const res = await fetch('http://localhost:5299/chess/possible-moves-grid', {
+  const res = await fetch('https://chess-puc-2.onrender.com/Chess/possible-moves-grid', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
@@ -133,7 +133,7 @@ function selectCell(cell) {
 }
 
 async function resetGame() {
-  const res = await fetch('http://localhost:5299/chess/reset', {
+  const res = await fetch('https://chess-puc-2.onrender.com/Chess/reset', {
     method: 'POST'
   })
 
@@ -148,7 +148,7 @@ async function resetGame() {
 }
 
 async function makeMove(from, to) {
-  const response = await fetch('http://localhost:5299/chess/move', {
+  const response = await fetch('https://chess-puc-2.onrender.com/Chess/move', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
